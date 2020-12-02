@@ -1,2 +1,7 @@
-# gretl_pkg_template
-Template of folder and file structure for gretl packages
+# {{PACKAGE_NAME}}
+This package does this and that...
+
+# Example
+
+
+## Changelog

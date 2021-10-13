@@ -2,11 +2,11 @@
 This repo includes template files for setting up a new gretl project which, optionally, can be pushed to your github-repo.
 
 # Example
-Replace package name place holder ```${{PACKAGE_NAME}}``` by 
+Replace package name place holder ```kmeans``` by
 
 ```bash
 PKG_ID="MY_PKG"
-sed -i s/${{PACKAGE_NAME}}/$PKG_ID/g *.*
+sed -i s/kmeans/$PKG_ID/g *.*
 ```
 
 # Push existing local repo to github
